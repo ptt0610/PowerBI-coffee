@@ -1,2 +1,2 @@
 # PowerBI-coffee
-Very frist BI - demo
+Very first BI - demo
